@@ -2,23 +2,23 @@
 <rss version="2.0">
 	<channel>
 		<title>RSS-WEB</title>
-		<link>http://www.example.com</link>
-		<description>My simple website with three articles.</description>
+		<link>https://github.com/mariovilarr/Web-RSS</link>
+		<description>Web con 3 artículos</description>
 		<item>
 			<title>Artículo 1</title>
-			<link>http://www.example.com/article1</link>
+			<link>https://github.com/mariovilarr/Web-RSS/articulo1</link>
 			<description>Lorem ipsum dolor sit amet...</description>
 			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Artículo 2</title>
-			<link>http://www.example.com/article2</link>
+			<link>https://github.com/mariovilarr/Web-RSS/articulo2</link>
 			<description>Lorem ipsum dolor sit amet...</description>
 			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Artículo 3</title>
-			<link>http://www.example.com/article3</link>
+			<link>https://github.com/mariovilarr/Web-RSS/articulo3</link>
 			<description>Lorem ipsum dolor sit amet...</description>
 			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
 		</item>
